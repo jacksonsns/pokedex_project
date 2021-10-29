@@ -3,7 +3,7 @@
     <div id="description-container">
       <img id="pokemon-sprite" v-if="pokemon.id" :src="getSprite(pokemon.id)" />
       <h3 class="text-body text-center bg-light">{{ pokemon.name }}</h3>
-     <h3 id="pokemon-id" class="text-light">id: {{ pokemon.id }}</h3>
+      <h3 id="pokemon-id" class="text-light">id: {{ pokemon.id }}</h3>
       <div class="type-box bg-white" v-for="type in pokemon.types" :key="type">
         {{ type }}
       </div>
