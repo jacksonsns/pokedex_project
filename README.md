@@ -1,6 +1,6 @@
 # Pokedex System
 
-<h2>System to catalog Pokemon with Vue JS</h2>
+<p>System to catalog Pokemon with Vuejs</p>
 
 <p>functionalities:</p>
 
