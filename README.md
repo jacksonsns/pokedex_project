@@ -2,9 +2,6 @@
 
 <p>Este é um sistema de catálogo pokemons com Vuejs, que faz comunicação com a Poké API por meio do Axios.</p>
 
-# Dados da API
-Pokédex! usa a <a href="https://pokeapi.co/">PokeAPI</a> para consumir a API RESTful.
-
 <h2>Recursos:</h2>
 
 * buscar pokemons;
